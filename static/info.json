@@ -16,7 +16,7 @@
 		},
 		"/go/character_creator/family": {
 			"headers": {
-				"Location": "/cc?themeId=family"
+				"Location": "/cc?themeId=family&bs=adam"
 			},
 			"statusCode": 302,
 			"content": ""
